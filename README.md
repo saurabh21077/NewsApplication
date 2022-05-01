@@ -35,10 +35,7 @@ Structure of news file:
 “body” : “.....”,
 “image-url” : “.....”
 }
-Note:
-● Only displaying the title of the most recent news is mandatory for the assignment.
-The rest of the content is optional and is for the bonus.
-Resources:
+### Resources:
 1. JSON Parsing for Android in Java :
 https://www.tutorialspoint.com/android/android_json_parser.htm
 2. JSON Parsing for Android in Kotlin :
